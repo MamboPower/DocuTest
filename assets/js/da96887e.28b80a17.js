@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_site=self.webpackChunktest_site||[]).push([[7719],{2891:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/DocuTest/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
